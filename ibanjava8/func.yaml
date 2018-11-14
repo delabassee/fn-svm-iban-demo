@@ -1,0 +1,8 @@
+schema_version: 20180708
+name: ibanjava8
+version: 0.0.2
+runtime: java8
+build_image: fnproject/fn-java-fdk-build:1.0.75
+run_image: fnproject/fn-java-fdk:1.0.75
+cmd: com.fn.Validate::handleRequest
+format: http-stream

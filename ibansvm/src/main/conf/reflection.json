@@ -1,0 +1,14 @@
+
+[
+  {
+    "name" : "com.fn.Validate",
+    "methods" : [
+        { "name" : "handleRequest" },
+        { "name" : "<init>"}
+    ]
+  },
+  {
+    "name" : "com.fn.Account",
+    "allDeclaredFields" : true
+  }
+]
